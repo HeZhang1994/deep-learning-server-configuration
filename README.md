@@ -3,5 +3,5 @@ This project provides parts of detailed deep learning server configuration docum
 
 本项目提供部分详细的中文版深度学习服务器配置文档。
 
-主要内容包括：如何进行硬盘分区，如何用U盘安装Ubuntu系统，如何安装部分开源深度学习库（例如Keras和Tensorflow）等。
+主要内容包括：如何进行硬盘分区，如何用U盘安装Ubuntu系统，如何安装部分开源深度学习库等。
 
