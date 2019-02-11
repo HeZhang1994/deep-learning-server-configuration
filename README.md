@@ -3,7 +3,7 @@
 
 主要内容包括：如何进行硬盘分区，如何用U盘安装Ubuntu系统，如何安装部分开源深度学习库等。
 
-# 内容目录
+## 内容目录
 DL Server Configuration - 01 ...... Ubuntu系统安装及硬盘分区
 
 DL Server Configuration - 02 ...... 英伟达显卡驱动、CUDA和cuDNN的安装和配置
